@@ -1,0 +1,176 @@
+.header {
+    background-color: #ffffff;
+    color: #212121;
+    height: 8vh;
+}
+
+.contenu {
+    background-color: #E8EEEF;
+    height: 100%;
+}
+
+.container {
+    width: 100em;
+}
+
+.comment {
+    width: 70em;
+    margin-top: 5%;
+}
+
+.topic {
+    width: 70%;
+    margin: 3%;
+}
+
+.categorie {
+    margin: 3%;
+}
+
+.avatar img {
+    border-radius: 50%;
+    margin: 50%;
+}
+
+.avatar {
+    margin-right: 4%;
+    margin-top: -15%;
+}
+
+.content-inner {
+    padding-top: 5%;
+}
+
+.border {
+    border-radius: none;
+    border: solid 0.5px black;
+}
+
+.feedback {
+    width: 15%;
+    border-left: solid 1px #f1f1f1;
+}
+
+.commentaire {
+    border-bottom: solide 1px #f1f1f1;
+    text-align: center;
+}
+
+.comments {
+    background-color: #bdc3c7;
+    border-radius: 2px;
+    display: inline-block;
+    padding: 8px 13px;
+    color: #ffffff;
+    font-size: 12px;
+    font-family: 'Open Sans Bold', sans-serif;
+    position: relative;
+}
+
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    margin-top: 5%;
+    color: grey;
+}
+
+.mark {
+    width: 11px;
+    height: 11px;
+    background-color: #bdc3c7;
+    bottom: 0;
+    margin-left: 40%;
+    margin-top: -6.5%;
+    text-align: center;
+    transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
+.vue {
+    border-bottom: solid 1px #f1f1f1;
+    color: #9da6aa;
+    font-size: 12px;
+    font-family: 'Open Sans Regular', sans-serif;
+    text-align: center;
+    line-height: 29px;
+}
+
+.fa {
+    display: inline-block;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+
+.time {
+    color: #9da6aa;
+    font-size: 12px;
+    font-family: 'Open Sans Regular', sans-serif;
+    text-align: center;
+    line-height: 29px;
+}
+
+.reaction {
+    margin-top: 10%;
+    margin-left: 30%;
+}
+
+.react {
+    color: #212121;
+}
+
+.number {
+    margin-left: 20px;
+    color: grey;
+    font-family: 'Open Sans Regular', sans-serif;
+    font-size: 10px;
+}
+
+.fa-thumbs-up,
+.fa-thumbs-down {
+    color: #212121;
+}
+
+.card {
+    width: 100%;
+}
+
+.titlepop {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.popular {
+    width: 100%;
+}
+
+.fa-arrow-circle-right {
+    color: #212121;
+    font-size: 16px;
+}
+
+.popcontent {
+    margin-left: 10px;
+}
+
+.poptext {
+    margin-left: 10px;
+    color: #686D72;
+    font-family: inherit;
+}
+
+.poptheme {
+    border-bottom: solid 1px #f1f1f1;
+    width: 100%;
+}
+
+.poptheme:hover {
+    background-color: #C9D3D6;
+    text-decoration: none;
+}
